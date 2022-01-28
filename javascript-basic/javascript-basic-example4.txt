@@ -1,0 +1,21 @@
+A. 
+=>  It is an online repository for the publishing of open-source Node.js projects.
+=>  It is used to dependency management of Node.js packages.
+=>  npm also has a command line tool that lets us easily install, manage and run projects
+=>  Run packages without downloading using npx.
+=>  Share code with any npm user, anywhere.
+
+B.
+=>  save-dev:
+                =>  It create a devDependencies object
+                => Package will appear in your devDependencies.
+
+C.
+=>  To add the latest version to your production dependencies,
+    you can simply run  "npm i express@latest --save"
+
+D.
+=>  This is pretty easy, to remove the " current version " of express, just type
+        Command : npm uninstall express
+=>  Followed by the following command to install a specific version of a package
+        Command : npm install express@2.x.x
